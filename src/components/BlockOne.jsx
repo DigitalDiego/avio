@@ -22,17 +22,17 @@ export default function BlockOne() {
         explicabo possimus a ducimus voluptatibus sunt natus quisquam error.
       </p>
       <p className="text-xl font-bold">Get started with your search</p>
-      <div className="w-full lg:w-1/2 flex justify-between iems-center">
-        <button className="px-4 py-2 bg-teal-600 text-gray-200 rounded-lg">
+      <div className="w-full lg:w-1/2 flex justify-between items-center flex-col lg:flex-row gap-4 lg:gap-0">
+        <button className="w-full lg:w-1/5 py-2 bg-teal-600 text-gray-200 rounded-lg ">
           International
         </button>
-        <button className="px-4 py-2 bg-teal-600 text-gray-200 rounded-lg">
+        <button className="w-full lg:w-1/5 py-2 bg-teal-600 text-gray-200 rounded-lg ">
           Domestic
         </button>
-        <button className="px-4 py-2 bg-teal-600 text-gray-200 rounded-lg">
+        <button className="w-full lg:w-1/5 py-2 bg-teal-600 text-gray-200 rounded-lg ">
           Beaches
         </button>
-        <button className="px-4 py-2 bg-teal-600 text-gray-200 rounded-lg">
+        <button className="w-full lg:w-1/5 py-2 bg-teal-600 text-gray-200 rounded-lg ">
           City
         </button>
       </div>

@@ -9,7 +9,7 @@ export default function BlockTwo() {
           <div className="w-full h-[200px]">
             <img
               className="w-full h-full object-contain lg:object-cover 2xl:object-contain"
-              src="/public/survey.png"
+              src="/survey.png"
               alt="survey"
             />
           </div>
@@ -21,7 +21,7 @@ export default function BlockTwo() {
           <div className="w-full h-[200px]">
             <img
               className="w-full h-full object-contain lg:object-cover 2xl:object-contain"
-              src="/public/calculator.png"
+              src="/calculator.png"
               alt="calculator"
             />
           </div>
@@ -33,7 +33,7 @@ export default function BlockTwo() {
           <div className="w-full h-[200px]">
             <img
               className="w-full h-full object-contain lg:object-cover 2xl:object-contain"
-              src="/public/processing.png"
+              src="/processing.png"
               alt="computer processing data"
             />
           </div>

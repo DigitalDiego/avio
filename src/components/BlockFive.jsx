@@ -2,7 +2,7 @@ import React from "react";
 
 export default function BlockFive() {
   return (
-    <div className="w-full p-[5vw] flex justify-center items-center flex-col gap-8">
+    <div className="w-full p-[5vw] flex justify-center items-center flex-col gap-8 2xl:max-w-7xl 2xl:mx-auto">
       <p className="text-4xl font-bold">Stay Updated</p>
       <p>Sign up to receive offers and updates!</p>
       <div className="w-full lg:w-1/2 flex items-center gap-4 lg:gap-2 flex-col lg:flex-row">

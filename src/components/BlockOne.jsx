@@ -3,7 +3,7 @@ import { AiOutlineSearch } from "react-icons/ai";
 
 export default function BlockOne() {
   return (
-    <div className="p-[5vw] flex justify-center items-center flex-col gap-8">
+    <div className="p-[5vw] flex justify-center items-center flex-col gap-8 2xl:max-w-7xl 2xl:mx-auto">
       <p className="text-4xl font-bold">What does Avio do?</p>
       <p className="text-center w-full lg:w-1/2">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit eligendi

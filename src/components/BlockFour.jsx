@@ -2,7 +2,7 @@ import React from "react";
 
 export default function BlockFour() {
   return (
-    <div className="w-full p-[5vw] flex justify-center items-center gap-8 flex-col">
+    <div className="w-full p-[5vw] flex justify-center items-center gap-8 flex-col 2xl:max-w-7xl 2xl:mx-auto">
       <p className="text-4xl font-bold">Questions?</p>
       <div className="w-full lg:w-1/2 flex flex-col justify-center items-center gap-4">
         <div className="w-full flex items-center gap-4 flex-col lg:flex-row">

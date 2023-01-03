@@ -4,7 +4,7 @@ import { AiFillDollarCircle } from "react-icons/ai";
 
 export default function BlockThree() {
   return (
-    <div className="p-[5vw] flex justify-center items-center flex-col gap-8">
+    <div className="p-[5vw] flex justify-center items-center flex-col gap-8 2xl:max-w-7xl 2xl:mx-auto">
       <p className="text-4xl font-bold">Popular Bundles</p>
       <div className="w-full flex justify-between items-center flex-col lg:flex-row gap-8 lg:gap-0">
         <div className="w-full lg:w-1/4 flex justify-start items-start flex-col gap-2 p-2 border-solid border-[1px] border-gray-400 rounded-lg">
